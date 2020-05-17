@@ -1,4 +1,4 @@
-# Curso básico de Javascript
+# Javascript desde cero
 
 Este es un curso básico de javascript que lo que muestra son los fundamentos básicos de Javascript, el cuál fue dictado como parte de una serie de videos publicados en el canal PEQA (Programando es que ando) https://www.youtube.com/channel/UCKcgzfmbK-2WgdQYqvqcpug.
 
